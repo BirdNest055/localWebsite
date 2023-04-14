@@ -4,7 +4,7 @@
 }
 #main-text {
     display: flex;
-    background: linear-gradient(to right, rgb(155, 78, 255), rgb(255, 126, 5));
+    background: linear-gradient(to right, rgb(141, 68, 236), rgb(255, 126, 5));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     justify-content: center;
